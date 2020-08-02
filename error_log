@@ -1,0 +1,461 @@
+[16-Nov-2018 08:51:34 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[16-Nov-2018 10:00:59 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[16-Nov-2018 10:23:10 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[16-Nov-2018 10:29:27 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[18-Nov-2018 21:38:12 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[21-Nov-2018 03:05:46 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[27-Nov-2018 03:21:25 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[06-Dec-2018 04:17:45 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[08-Dec-2018 07:10:33 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[19-Dec-2018 00:10:24 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[21-Dec-2018 00:44:30 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[12-Jan-2019 00:56:34 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[17-Jan-2019 14:42:51 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[17-Jan-2019 14:43:53 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[30-Jan-2019 10:23:06 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[11-Feb-2019 01:21:42 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[11-Feb-2019 17:18:16 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[12-Feb-2019 02:15:02 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[17-Feb-2019 11:02:01 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[18-Feb-2019 02:29:21 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[20-Feb-2019 23:23:41 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[04-Mar-2019 03:00:08 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[12-Mar-2019 06:07:10 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[15-Mar-2019 10:51:15 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[15-Mar-2019 10:51:34 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[22-Mar-2019 02:49:59 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[22-Mar-2019 14:18:43 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[26-Mar-2019 14:27:47 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[26-Mar-2019 15:02:36 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[01-Apr-2019 21:10:01 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[03-Apr-2019 00:14:02 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[08-Apr-2019 10:53:30 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[10-Apr-2019 01:43:17 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[12-Apr-2019 23:04:51 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[14-Apr-2019 23:44:39 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[28-Apr-2019 04:05:42 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[29-Apr-2019 13:50:52 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[03-May-2019 09:19:54 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[07-May-2019 09:23:13 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[08-May-2019 06:53:02 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[10-May-2019 06:00:08 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[14-May-2019 11:40:26 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[19-May-2019 14:04:18 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[20-May-2019 21:26:46 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[20-May-2019 21:30:42 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[05-Jun-2019 10:09:14 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[05-Jun-2019 14:34:52 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[06-Jun-2019 01:44:13 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[08-Jun-2019 19:50:26 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[10-Jun-2019 02:26:52 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[13-Jun-2019 12:50:49 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[18-Jun-2019 13:59:57 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[21-Jun-2019 17:53:35 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[24-Jun-2019 10:56:24 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[28-Jun-2019 11:04:35 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[28-Jun-2019 11:23:02 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[03-Jul-2019 19:50:24 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[04-Jul-2019 00:23:09 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[13-Jul-2019 00:36:47 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[18-Jul-2019 18:52:41 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[21-Jul-2019 16:00:09 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[29-Jul-2019 08:37:15 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[31-Jul-2019 00:17:25 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[04-Aug-2019 14:30:51 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[05-Aug-2019 13:25:55 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[07-Aug-2019 09:01:01 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[11-Aug-2019 01:56:58 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[12-Aug-2019 15:23:27 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[15-Aug-2019 21:31:03 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[27-Aug-2019 15:39:38 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[30-Aug-2019 11:32:28 Asia/Jakarta] PHP Fatal error:  Call to a member function listPekerjaan() on null in /home/jasmanin/public_html/application/controllers/Project.php on line 16
+[05-Sep-2019 20:27:22 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[18-Sep-2019 03:50:20 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[30-Sep-2019 08:40:04 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[05-Oct-2019 03:06:29 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[05-Oct-2019 06:41:11 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[11-Oct-2019 01:48:54 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[14-Oct-2019 01:22:15 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[18-Oct-2019 12:46:02 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[08-Nov-2019 13:17:56 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[08-Dec-2019 20:40:58 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[09-Dec-2019 12:26:00 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[16-Dec-2019 12:06:26 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[16-Dec-2019 12:06:27 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[16-Dec-2019 13:46:03 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[19-Dec-2019 11:30:20 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[31-Dec-2019 12:14:09 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[31-Dec-2019 12:14:09 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[01-Jan-2020 05:31:30 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[02-Jan-2020 20:20:54 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[06-Jan-2020 09:19:35 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[10-Jan-2020 01:04:24 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[10-Jan-2020 22:36:41 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[22-Jan-2020 18:13:08 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[13-Feb-2020 07:10:08 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[17-Feb-2020 11:45:31 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[22-Feb-2020 19:37:52 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[22-Feb-2020 22:13:34 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[04-Mar-2020 07:20:50 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[05-Mar-2020 10:54:18 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[08-Mar-2020 19:37:53 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[13-Mar-2020 00:16:07 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[16-Mar-2020 19:19:46 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[24-Mar-2020 14:51:26 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[26-Mar-2020 05:19:24 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[03-Apr-2020 01:09:37 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[06-Apr-2020 23:21:11 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[07-Apr-2020 16:20:35 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[14-Apr-2020 14:32:32 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[21-Apr-2020 05:16:14 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[22-Apr-2020 07:01:40 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[22-Apr-2020 23:20:28 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[28-Apr-2020 22:54:54 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[06-May-2020 20:39:06 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[08-May-2020 22:11:52 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[13-May-2020 11:47:13 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[19-May-2020 20:22:18 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[22-May-2020 17:52:12 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[24-May-2020 15:54:20 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[28-May-2020 18:13:30 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[29-May-2020 11:02:26 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[31-May-2020 16:20:17 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[04-Jun-2020 22:53:17 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[10-Jun-2020 16:44:50 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[11-Jun-2020 08:20:45 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[11-Jun-2020 10:49:17 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[17-Jun-2020 19:05:25 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[24-Jun-2020 00:10:25 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[30-Jun-2020 09:54:57 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[06-Jul-2020 13:57:17 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[12-Jul-2020 20:10:13 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[15-Jul-2020 01:57:07 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[15-Jul-2020 05:04:46 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[19-Jul-2020 02:45:20 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[25-Jul-2020 04:44:03 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
+[31-Jul-2020 08:38:07 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/jasmanin/public_html/system/core/Common.php on line 662 and defined in /home/jasmanin/public_html/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/jasmanin/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/jasmanin/public_html/system/core/Exceptions.php on line 190
